@@ -4,8 +4,8 @@ from time import sleep
 import machine
 from machine import Pin
 
-ssid = 'casita'
-password = 'tele-3611460'
+ssid = 'tu_ssid'
+password = 'tu_password'
 
 CH1 = Pin(20, Pin.OUT)
 CH2 = Pin(21, Pin.OUT)

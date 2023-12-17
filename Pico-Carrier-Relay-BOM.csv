@@ -1,0 +1,10 @@
+Item #,Designator,Qty,Manufacturer,Mfg Part #,Description/Value,Package/Footprint,Type
+1,"J1,J4",2,Molex,22-28-4200,Through hole pin header THT 1x20 2.54mm single row,,thru-hole
+2,"D3,D5,D1",3,Dialight,598-8210-102F,LED RED CLEAR 1206,1206,smd
+3,"D4,D6,D2",3,Onsemi,NRVA4007T3G,Diode 1000 V 1A Surface Mount SMA,SMA,smd
+4,"J6,J5,J7",3,Phoenix contact,1715035,"TerminalBlock Phoenix MKDS-1,5-3 1x03 P5.00mm",,thru-hole
+5,"R3,R1,R2",3,Panasonic,ERJ-8GEYJ111V,"±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) 110R",1206,smd
+6,"K3,K1,K2",3,Songle Relay,SRD-05VDC-SL-C,"5V 10A SPDT (1 Form C) 5 Plugin,15.6x19.2mm Power Relay",,thru-hole
+7,"J2,J3",2,Molex,90147-1120,Through hole pin socket THT 1x20 2.54mm single row,,thru-hole
+8,"Q1,Q2,Q3",3,Onsemi,MMBT3904,Bipolar Transistor - BJT SOT-23 NPN,SOT-23-3,smd
+9,SW1,1,Omron,B3F-1000,Tactile Switch 6X6 Flat 4.3mm Btn Force 100g,,thru-hole

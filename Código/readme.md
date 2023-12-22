@@ -6,4 +6,4 @@ No requiere de librerías adicionales, solo completar ssid y password de tu cone
 # Paso a paso
 
 La explicación completa la podrás ver en el siguiente video de Youtube:
-https://youtube.com/c/computadorasysensores
+https://youtu.be/5ypWmVE0PGM

@@ -16,4 +16,4 @@ de ubicación de componentes PnP (Pick and Place).
 # Paso a paso
 
 La explicación completa la podrás ver en el siguiente video de Youtube:
-https://youtube.com/c/computadorasysensores
+https://youtu.be/5ypWmVE0PGM
